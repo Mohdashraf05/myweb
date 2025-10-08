@@ -1,1 +1,2 @@
 new to aws cloud 
+also in devops
