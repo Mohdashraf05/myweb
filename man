@@ -1,4 +1,0 @@
-new to aws cloud 
-also in devops
-cloud 
-ci/cd
